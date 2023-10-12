@@ -1,2 +1,2 @@
-# MIA.INF4980
+# Proyecto de titulo Nestor Borre MIA PUC
 Proyecto de titulo
